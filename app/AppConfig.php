@@ -53,7 +53,7 @@ class AppConfig {
     const DB_TABLE_COL_SPENT_CURRENCY_ID = 'spent_currency_id';
 
     #All DB table names
-    const DB_TABLE_NAME_GROUP               = 'group';
+    const DB_TABLE_NAME_GROUP               = 'groups';
     const DB_TABLE_NAME_CATEGORY            = 'category';
     const DB_TABLE_NAME_ROLES               = 'roles';
     const DB_TABLE_SYSTEM_SETTINGS          = 'system_settings';
